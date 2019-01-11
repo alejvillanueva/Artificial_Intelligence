@@ -1,1 +1,3 @@
-# Artificial_Intelligence
+# Artificial Intelligence
+
+Two projects for my Artificial Intelligence class. 
